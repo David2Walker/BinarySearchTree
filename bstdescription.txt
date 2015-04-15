@@ -1,0 +1,5 @@
+The design of my binary search tree is as it was described in class.
+It's pretty straight forward, not really sure what I'm suppose to be describing.
+Insert - int is read in, then tree is traversed to proper location and node is inserted.
+Delete - int is read in, tree is traversed, then transplant process is performed to rebuild tree.
+the other methods continue is this straightforward explinations. 
